@@ -5,12 +5,12 @@
 # for valor in nuevo_rango:
 #     print(valor)
 
-nuevo_rango = range(0,3)
+# nuevo_rango = range(0,3)
 
 nombre= ["Karla", "Santos", "Narciso"]
 apellido= ["Garcia", "Gomez", "Holguin"]
 
-for completo in nuevo_rango:
+for completo in range(0,1000000):
     
     
-    print(nombre[completo] +" "+ apellido[completo])
+    print("La vuelta numero:", completo)
