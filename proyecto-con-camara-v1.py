@@ -10,4 +10,4 @@ while(captura.isOpened()):
             break
 
 captura.release()
-cv2.destroyAllWindows()
+cv2.destroyAllWindows() 
