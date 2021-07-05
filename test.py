@@ -1,2 +1,5 @@
 import cv2
-print(cv2._version_)
+import numpy
+
+
+print("cargado")
